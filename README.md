@@ -15,9 +15,7 @@ I'm a software engineer with a strong foundation in full-stack development, data
 I began in the real estate industry, streamlining operations across 150+ units by integrating software tools like AppFolio to reduce manual overhead. Since then, I've contributed to large-scale data and software systems at companies like J.P. Morgan and Lennar, working with technologies like Airflow, Snowflake, Apache Spark/Kafka, AWS, and PowerBI.
 
 - 🎓 **B.S. & M.S. in Computer Science** from **Georgia Institute of Technology**
-- 💼 **Currently:** Data Engineer at Lennar (July 2024 - Present)
-- 🔧 **Previously:** Software Engineer at JPMorgan Chase & Co.
-- 🌱 **Focus:** Data Engineering, Cloud Architecture, Machine Learning
+- 🌱 **Focus:** Cloud Architecture (Dev Ops), Full Stack Development, Machine Learning, Data Engineering
 - 📍 **Location:** Miami, Florida
 
 ## 💻 Technical Skills
@@ -68,12 +66,12 @@ I began in the real estate industry, streamlining operations across 150+ units b
 
 ## 💼 Professional Experience
 
-### 🏢 **Data Engineer - Master Data Management** @ Lennar *(July 2024 - Present)*
+### 🏢 **Data Engineer - Master Data Management** @ Lennar *(Jul 2024 - Present)*
 - 🚀 Built ETL pipelines integrating **17M+ Salesforce records** into Reltio MDM using AWS Glue
 - ⚡ Integrated AWS API Gateway and Lambda for real-time event handling
 - 📊 Created Power BI dashboards with automated daily updates using Apache Airflow
 
-### 🏦 **Software Engineer - Data Platforms** @ JPMorgan Chase & Co. *(June 2023 - August 2023)*
+### 🏦 **Software Engineer - Data Platforms** @ JPMorgan Chase & Co. *(Jun 2023 - Aug 2023)*
 - 💾 Engineered batch processing pipeline ingesting **187M records** from MongoDB to Oracle
 - 🌐 Built scalable GraphQL APIs for regulatory reporting across **100+ jurisdictions**
 - ⏰ Improved data latency by **55%** using AWS Glue/Lambda scheduling
