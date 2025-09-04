@@ -14,10 +14,8 @@ I'm a software engineer with a strong foundation in full-stack development, data
 
 I began in the real estate industry, streamlining operations across 150+ units by integrating software tools like AppFolio to reduce manual overhead. Since then, I've contributed to large-scale data and software systems at companies like J.P. Morgan and Lennar, working with technologies like Airflow, Snowflake, Apache Spark/Kafka, AWS, and PowerBI.
 
-- 🎓 **B.S. & M.S. in Computer Science** from **Georgia Institute of Technology**
-- 💼 **Currently:** Data Engineer at Lennar (July 2024 - Present)
-- 🔧 **Previously:** Software Engineer at JPMorgan Chase & Co.
-- 🌱 **Focus:** Data Engineering, Cloud Architecture, Machine Learning
+- 🎓 **B.S. & M.S. in Computer Science** from **Georgia Institute of Technology**.
+- 🌱 **Focus:** Cloud Architecture (Dev Ops), Machine Learning, Full Stack Development, Data Engineering, 
 - 📍 **Location:** Miami, Florida
 
 ## 💻 Technical Skills
