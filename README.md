@@ -11,9 +11,9 @@
 I'm a **Data Engineer** and **Software Developer** with a passion for building scalable data solutions and intelligent systems. Currently working at **Lennar** as a Data Engineer specializing in Master Data Management, where I architect ETL pipelines processing millions of records.
 
 - 🎓 **B.S. & M.S. in Computer Science** from **Georgia Institute of Technology**
-- 💼 **Currently:** Data Engineer at Lennar (July 2024 - Present)
+- 💼 **Currently:** Software & Data Engineer at Lennar (July 2024 - Present)
 - 🔧 **Previously:** Software Engineer at JPMorgan Chase & Co.
-- 🌱 **Focus:** Data Engineering, Cloud Architecture, Machine Learning
+- 🌱 **Focus:** Cloud Architecture, Full Stack Development, Machine Learning, Data Engineering
 - 📍 **Location:** Miami, Florida
 
 ## 💻 Technical Skills
